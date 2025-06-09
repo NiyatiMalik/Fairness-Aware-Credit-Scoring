@@ -1,0 +1,13 @@
+Model,accuracy,disparate_impact,statistical_parity_difference,equal_opportunity_difference
+XGBoost,0.967171717,0.995283843,-0.003648649,-0.036784141
+Disparate_Impact_Remover,0.9697,1.0261,0.0199,-0.0155
+LFR,0.9975,0.9271,-0.0653,0.0038
+reweighing,0.9697,0.9824,-0.0136,-0.0368
+GerryFair,0.803,0.9833,-0.0164,0
+PrejudiceRemover,0.9242,0.974,-0.0205,-0.078
+ExponentiatedGradient,0.9293,0.9226,-0.0604,-0.0817
+GridSearch,0.9293,0.9482,-0.0404,-0.0692
+AdversarialDebiasing,0.9192,0.8905,-0.0873,-0.0986
+RejectOptionClassification,0.9773,1.0133,0.01,-0.028
+CalibratedEqOdds,0.9394,0.9497,-0.0408,-0.0368
+EqualizedOdds,0.947,1.0313,0.0234,-0.0015
