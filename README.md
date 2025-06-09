@@ -75,18 +75,13 @@ pip install -r requirements.txt
 1. Data Preparation: Preprocess datasets (scripts provided in data/)
 
 2. Model Training & Evaluation:
-
 - python run_baseline.py
-
 - python run_fair_models.py
 
-
 3. Hybrid Model Pipeline:
-
 - python hybrid_pipeline.py
 
 4. Fairness Evaluation:
-
 - SHAP: python interpret_shap.py
 - Counterfactuals: python counterfactual_eval.py
 
