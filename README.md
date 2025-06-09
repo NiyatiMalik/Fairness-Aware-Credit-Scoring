@@ -1,7 +1,7 @@
 # Fairness-Aware Credit Scoring
-A Comparative Study and a Hybrid Model Approach
-Authors: Niyati Malik, Niket Pathak
-Institution: University of Illinois Chicago
+A Comparative Study and a Hybrid Model Approach  
+**Authors**: Niyati Malik, Niket Pathak  
+**Institution**: University of Illinois Chicago
 
 ## 📚 About the Project
 This project explores algorithmic fairness in credit scoring systems using machine learning. It presents a comparative evaluation of 12 models (1 baseline + 11 fairness-aware models) across four real-world credit datasets. The project proposes a new composite metric—Responsibility Score (RS)—and introduces a hybrid model combining pre-processing and in-processing fairness techniques, tested on the HMDA 2018 dataset.
